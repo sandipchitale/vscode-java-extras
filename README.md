@@ -4,11 +4,11 @@ This extension adds functionalaity to [Project Manager for Java](https://marketp
 
 ## Features
 
-|Commands|Description|
-|-|-|
-|`vscode-java-extras.pn`|Copy package name|
-|`vscode-java-extras.fqcn`|Copy fully qualified class name|
-|||
+|Commands|Description|Context|
+|-|-|-|
+|`vscode-java-extras.pn`|Copy package name|Package node context menu in Java Project view|
+|`vscode-java-extras.fqcn`|Copy fully qualified class name|Java type node context menu in Java Project View|
+||||
 
 ## Requirements
 

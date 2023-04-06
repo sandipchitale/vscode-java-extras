@@ -2,7 +2,7 @@
   "name": "vscode-java-extras",
   "displayName": "VSCode Java Extras",
   "description": "Add extra functionality VSCode Java Support",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "preview": true,
   "icon": "images/icon.png",
   "galleryBanner": {
