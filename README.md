@@ -1,6 +1,6 @@
 # vscode-java-extras README
 
-This extension adds functionalaity to [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency).
+This extension adds extra functionalaity to [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency).
 
 ## Features
 
